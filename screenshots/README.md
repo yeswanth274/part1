@@ -20,3 +20,7 @@ Note: Images are embedded in the individual markdown files.
 
 
 git remote -v
+
+
+
+
